@@ -65,7 +65,7 @@ This manifesto is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 This manifesto is inspired by the Agile Manifesto and various experiences of professionals across various industries.
-It isn't meant to give clear specification about _how_ to implement solutions, though examples and ideas are available in [docs directory](docs/en). Think of it as a todo for an effective workplace, the more you do the better.
+It isn't meant to give clear specification about _how_ to implement solutions, though examples and ideas are available in [docs directory](docs/en/toc.md). Think of it as a todo for an effective workplace, the more you do the better.
 
 We thank all contributors for their valuable input.
 

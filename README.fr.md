@@ -67,7 +67,7 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ## Mentions
 The manifeste est inspiré par le manifeste Agile, et d'expériences de professionnels à travers diverses industries.
-Le but n'est pas de donner des directives précises sur _comment_ implémenter des solutions, quoique des examples et idées sont disponibles dans [le dossier docs](docs/fr). Considérez le comme une liste de choses à faire pour un lieu de travail efficace, et plus vous en faites, mieux ce sera.
+Le but n'est pas de donner des directives précises sur _comment_ implémenter des solutions, quoique des examples et idées sont disponibles dans [le dossier docs](docs/fr/toc.md). Considérez le comme une liste de choses à faire pour un lieu de travail efficace, et plus vous en faites, mieux ce sera.
 
 ---
 
