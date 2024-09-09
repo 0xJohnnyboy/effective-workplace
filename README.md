@@ -55,7 +55,7 @@ We recognize that creating an effective workplace is crucial for an organization
 - Regularly solicit feedback on workplace processes
 - Implement an iterative approach to refine and enhance the overall work experience
 
-[Details and examples](docs/en/continous-improvement.md)
+[Details and examples](docs/en/continuous-improvement.md)
 
 ## Contributing
 We welcome contributions to this manifesto. Read the [contributing guide](CONTRIBUTING.md) for further information about how to participate.

@@ -55,7 +55,7 @@ Le Manifeste pour un Lieu de Travail Efficace vise à établir un cadre pour cr�
 - Sollicitation régulière de feedback sur les processus de travail
 - Mise en place d'une approche itérative pour affiner et améliorer l'expérience de travail globale
 
-[Détails et exemples](docs/fr/continous-improvement.md)
+[Détails et exemples](docs/fr/continuous-improvement.md)
 
 ## Contribuer
 
